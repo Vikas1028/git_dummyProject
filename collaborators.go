@@ -7,5 +7,9 @@ func main() {
 
 	fmt.Println("collaborators name is AOSHIN conflict BABU")
 
+<<<<<<< HEAD
 	//merge conflict by vikas on main branch
+=======
+	//try to create merge conflic by vikas
+>>>>>>> Vikas
 }
