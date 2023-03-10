@@ -7,9 +7,25 @@ func main() {
 
 	fmt.Println("collaborators name is AOSHIN conflict BABU")
 
-<<<<<<< HEAD
 	//merge conflict by vikas on main branch
-=======
 	//try to create merge conflic by vikas
->>>>>>> Vikas
+
+	fmt.Println("Enter name of collaborators")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("Vikas modified it")
+
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
+	fmt.Println("This code change from Vikas")
 }
